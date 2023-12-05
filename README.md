@@ -13,6 +13,7 @@ Welcome to the Hybrid Recommendation System project! This project combines both 
 - [Collaborative-Based Recommendation](#collaborative-based-recommendation)
 - [Getting Started](#getting-started)
 - [Dependencies](#dependencies)
+- [Deployment](#deployment)
 
 ## Project Description
 
@@ -48,3 +49,6 @@ Make sure you have the following dependencies installed:
 - Pandas
 - Scikit-learn
 
+## Deployment
+<div align="center"> <img width = "800" src = "https://github.com/sumanbarman99/Hybrid_Recommendation_System/blob/main/image/Screenshot%20(58).png"> </div>
+<div align="center">Top 5 similar movies</div>
